@@ -1,7 +1,7 @@
 {
   "main": "mua-flights-api.raml",
   "name": "MUA Flights API",
-  "groupId": "74cf2c00-6770-4b0f-a80f-29d23c53ce95",
+  "groupId": "b6ff2eea-025f-4f05-bb67-f065fc41fc14",",
   "assetId": "mua-flights-api",
   "version": "1.0.0",
   "classifier": "raml",
