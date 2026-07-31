@@ -1,4 +1,6 @@
 {
   "dependencies": [],
-  "name": "MUA Flights API"
+  "name": "MUA Flights API",
+  "main": "mua-flights-api.raml",
+  "groupId": "b6ff2eea-025f-4f05-bb67-f065fc41fc14"
 }
