@@ -3,7 +3,7 @@
   "name": "MUA Flights API",
   "main": "mua-flights-api.raml",
   "groupId": "063a6d22-5c69-46cf-a5c4-6f0acbe20cfe",
-  "organizationId": "b6ff2eea-025f-4f05-bb67-f065fc41fc14",
+  "organizationId": "063a6d22-5c69-46cf-a5c4-6f0acbe20cfe",
   "assetId": "mua-flights-api",
   "version": "1.0.0",
   "apiVersion": "1.0",
